@@ -9,6 +9,6 @@
 
 ## Project Introduction
 
-- Neme: Towards to CUA/BUA/RUA(Robitcs Use Agent)
+- Neme: Towards to CUA/BUA/RUA(Robot Using Agent)
 - NemeLM-Drive: Luanage model based E2E VLA
 - NemeCode: AI Editor to Create Anyting
